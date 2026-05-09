@@ -16,6 +16,7 @@ npm-debug.log*
 
 # Uploads
 uploads/
+backend/uploads/.gitkeep
 
 # OS files
 .DS_Store
